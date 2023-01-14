@@ -12,12 +12,12 @@ Dosen   :Agung Nugroho S.Kom.,M.Kom
 
 
 
-
+~~~bash
 Link Youtube :
 File pdf :
+~~~
 
-
-![image](ss/soal%20uas.png)
+![image](ss/6s.png)
 
 
 ### main.py
