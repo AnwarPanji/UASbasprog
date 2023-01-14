@@ -11,11 +11,9 @@ Dosen   :Agung Nugroho S.Kom.,M.Kom
 ~~~
 
 
+Link Youtube : [klik disini]()
 
-~~~bash
-Link Youtube :
-File pdf :
-~~~
+File pdf : [klik disini]()
 
 ![image](ss/6s.png)
 
